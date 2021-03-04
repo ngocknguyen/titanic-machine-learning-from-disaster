@@ -1,3 +1,2 @@
 # titanic-machine-learning-from-disaster
-# Udemy class
-## Student: Ngoc Nguyen
+My first project on ML using Python
